@@ -1,6 +1,6 @@
 # prime-checker
 
-A Python library for checking whether numbers are prime. Accuracy to be around 93.4% at 10 million tests, expected to increase with more tests.
+A super efficient Python library for checking whether numbers are prime. Accuracy to be around 93.4% at 10 million tests, expected to increase with more tests.
 
 ## Structure
 ```text
