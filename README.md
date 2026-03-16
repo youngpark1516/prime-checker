@@ -1,2 +1,2 @@
 # prime-checker
-Checks for prime num ber
+Checks for prime number
